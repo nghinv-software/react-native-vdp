@@ -37,7 +37,7 @@
     "android"
   ],
   "repository": "https://github.com/nghinv-software/react-native-vdp.git",
-  "author": "NghiNV <nghinv@lumi.biz> (https://github.com/nghinv-software/react-native-vdp.git)",
+  "author": "NghiNV <nghinv@lumi.biz> (https://github.com/nghinv-software)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nghinv-software/react-native-vdp.git/issues"
